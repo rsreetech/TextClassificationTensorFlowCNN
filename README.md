@@ -1,0 +1,2 @@
+# TextClassificationTensorFlowCNN
+Let us look at how we can implement text classification with Tensorflow https://www.tensorflow.org/ TensorFlow is an end-to-end open source platform for machine learning. The dataset is from the Tweet Sentiment Extraction challenge from Kaggle(https://www.kaggle.com/c/tweet-sentiment-extraction/overview) We would implement text classification using a simple convolutional network developed using Tensorflow on tweet data to classify tweets as "positive","negative" or "neutral"
